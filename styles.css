@@ -45,14 +45,8 @@
       margin-bottom: 15px;
     }
 
-    em {
-      font-style: italic;
-    }
-
-    strong {
-      font-weight: bold;
-    }
-
+   
+   
     .list-header {
       font-size: 1.4em;
       font-weight: bold;
